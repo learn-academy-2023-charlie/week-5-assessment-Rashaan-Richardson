@@ -36,7 +36,7 @@ class Bike
         @wheels = wheels
         @current_speed = current_speed
     end
-    def bike_info
+    def bike_info 
         "The bike is a #{@model} with #{@wheels} wheels and has a current speed of #{@current_speed}"
     end 
     def pedal_faster(num)

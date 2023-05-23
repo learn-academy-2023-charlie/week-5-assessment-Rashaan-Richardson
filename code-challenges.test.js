@@ -98,7 +98,7 @@ const poker = (element) => {
     // Create a variable that contains your result. Another for the object. We need some way to count the different numbers and the times each number appears
     res = false
     obj = {}
-    for (i = 0; i < element.length; i++){
+    for (i = 0; i < element.length; i++) {
         // console.log (element[i])
         if (element[i] in obj === false){
             (obj[element[i]] = 0 )

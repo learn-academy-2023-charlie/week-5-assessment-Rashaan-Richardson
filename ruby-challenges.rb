@@ -40,7 +40,7 @@ class Bike
         "The bike is a #{@model} with #{@wheels} wheels and has a current speed of #{@current_speed}"
     end 
     def pedal_faster(num)
-        @current_speed += num
+        @current_speed += num 
     end
     def brake(num)
         @current_speed -= num

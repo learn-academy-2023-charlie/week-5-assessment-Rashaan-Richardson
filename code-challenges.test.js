@@ -59,7 +59,7 @@ console.log(change_letters(secretCodeWord3));
 const fruitArray = ["Mango", "Cherry", "Apricot", "Blueberry", "Peach", "Kiwi"]
 
 const filterLetterA = "a"
-// Expected output: ["Mango", "Apricot", "Peach"]
+// Expected output: ["Mango", "Apricot", "Peach"] 
 const filterLetterE = "e"
 // Expected output: ["Cherry", "Blueberry", "Peach"]
 

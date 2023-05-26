@@ -7,7 +7,7 @@ A good developer will ask clarifying questions when a task is unclear and use al
 The step-by-step instructions [here](https://github.com/LEARNAcademy/Syllabus/blob/main/github/assessments.md) breakdown the git and GitHub process for this assessment.
 
 Assessment should be accessed through the GitHub Classroom link provided to you in Slack.
-
+ 
 PRs should be posted _before_ class begins on the following Monday.
 
 ---
